@@ -14,10 +14,19 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 # Tools
 
+## Libraries
+
+- [.NET Core Security Headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+- [NetEscapades.AspNetCore.SecurityHeaders](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders) - Small package to allow adding security headers to ASP.NET Core websites.
+- [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
+- [JWT .NET](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
+- [NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET.
+
 ## Static Code Analysis
 
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
 - [Puma Scan](https://github.com/pumasecurity/puma-scan) - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
+- [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
 
 ## Vulnerabilities and Security Advisories
 
