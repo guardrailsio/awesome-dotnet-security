@@ -21,6 +21,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - Cleans HTML to avoid XSS attacks.
 - [JWT .NET](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 - [NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET.
+- [AspNetSaml](https://github.com/jitbit/AspNetSaml) - SAML client library, allows adding SAML single-sign-on to your ASP.NET app.
 
 ## Static Code Analysis
 
