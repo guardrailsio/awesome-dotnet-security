@@ -34,6 +34,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
 - [Puma Scan](https://github.com/pumasecurity/puma-scan) - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
+- [SonarQube](https://github.com/SonarSource/sonar-dotnet) - SonarC# and SonarVB are static code analyser for C# and VB.​NET languages used as an extension for the SonarQube and SonarCloud platforms. It will allow you to produce stable and easily supported code by helping you to find and to correct bugs, vulnerabilities and smells in your code.
 
 ## Vulnerabilities and Security Advisories
 
