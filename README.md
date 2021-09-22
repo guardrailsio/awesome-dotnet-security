@@ -28,6 +28,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [JWT .NET](https://github.com/jwt-dotnet/jwt) - Jwt.Net, a JWT (JSON Web Token) implementation for .NET.
 - [NWebsec](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET.
 - [AspNetSaml](https://github.com/jitbit/AspNetSaml) - SAML client library, allows adding SAML single-sign-on to your ASP.NET app.
+- [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - Package that will let you set rate limits for your .NET Core Api.
 
 ## Static Code Analysis
 
