@@ -67,6 +67,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Hardening the security of your ASP.NET core apps](https://geeklearning.io/hardening-the-security-of-your-asp-net-core-apps/) - Lessons learned after a third-party penetration test.
 - [Secure Coding Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/security/secure-coding-guidelines) - Microsoft's take on secure coding guidelines.
 - [Security Headers](https://andrewlock.net/adding-default-security-headers-in-asp-net-core/) - Adding Default Security Headers in .NET Core.
+- [The ASP.NET Core security headers guide](https://blog.elmah.io/the-asp-net-core-security-headers-guide/) - Another take on adding security headers in ASP.NET Core.
 - [Security Best Practices for ASP.NET MVC](https://jamilhallal.blogspot.com/2021/08/building-secure-aspnet-mvc-web.html) - Building Secure ASP.NET MVC Web Applications.
 
 # Other
