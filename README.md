@@ -57,6 +57,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [WebGoat.NET](https://github.com/jerryhoff/WebGoat.NET) - OWASP WebGoat.NET
 - [Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta) - DVTA is a Vulnerable Thick Client Application developed in C# .NET
 - [ASP.NET Vulnerable Site](http://aspnet.testsparker.com) - Online .NET application that can be used to practice hacking.
+- [The Most Vulnerable .NET App](https://github.com/AlexGoOn/the-most-vulnerable-dotnet-app) - A GitHub repository featuring an application with over 50 interactive security vulnerabilities.
 
 ## Articles, Guides & Talks
 
