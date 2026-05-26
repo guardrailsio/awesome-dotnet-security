@@ -49,6 +49,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Snyk Vulnerability DB](https://snyk.io/vuln?type=nuget) - Commercial but free listing of known vulnerabilities in NuGet libraries.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/42998/Microsoft-Asp.net-Core.html?vendor_id=26) - Vulnerabilities in .NET Core that were assigned a CVE.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=ASP.NET&queryType=phrase&search_type=all) - .NET related known vulnerabilities in the National Vulnerability Database.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 
 # Educational
 
