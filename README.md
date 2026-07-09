@@ -33,6 +33,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Static Code Analysis
 
 - [GuardRails](https://www.guardrails.io) - Continuous verification platform that integrates tightly with leading version control systems.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI pentest platform whose per-tech offensive sub-agents include a .NET/ASP.NET agent that runs dynamic security testing against .NET applications, with an evidence trail per finding.
 - [Security Code Scan](https://github.com/security-code-scan/security-code-scan) - Vulnerability Patterns Detector for C# and VB.NET.
 - [Puma Scan](https://github.com/pumasecurity/puma-scan) - Puma Scan is a .NET software secure code analysis tool providing real time, continuous source code analysis.
 - [DevSkim](https://github.com/Microsoft/DevSkim) - DevSkim is a set of IDE plugins and rules that provide security "linting" capabilities.
